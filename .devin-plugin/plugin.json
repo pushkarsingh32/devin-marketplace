@@ -279,6 +279,12 @@
       "source": "url",
       "url": "https://github.com/mobbin/skills.git",
       "sha": "cac338357d596415773874f06a6c16e862c195e4"
+    },
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/tubeagentkit/youtube-mcp.git",
+      "path": "plugins/devin",
+      "sha": "fc1c70d57faa358a8053325bd36ee97ccd82e718"
     }
   ]
 }
